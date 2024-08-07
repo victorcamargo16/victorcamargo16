@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ***Bem vindos ao meu perfil***
-
-- Estou estudando na [Alura](https://www.alura.com)
+***VICTOR HUGO DE CAMARGO***
+- Estou estudando no [Alura](https://www.alura.com)
 
 -@victim_cam
 
