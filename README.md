@@ -5,3 +5,8 @@
 - Estou estudando na Alura
 
 -@victim_cam
+
+
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAM/naruto.gif
+)
